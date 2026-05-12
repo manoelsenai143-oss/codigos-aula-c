@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../estrutura_decisao"
+		},
+		{
+			"path": "../estrutura_repeticao"
+		},
+		{
+			"path": "../fundamentos"
+		},
+		{
+			"path": "../output"
+		}
+	]
+}
